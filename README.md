@@ -15,8 +15,8 @@ https://download.ngrok.com/mac-os
 5. Install express and axios with the following command: \
 ```npm install express axios```
 
-6. In the server folder run the following command to start the server \
-```node server.js```
+6. In the project folder run the following command to start the server \
+```node server/server.js```
 
 7. The following message should show if server is run successfully \
 ```Server is running on http://localhost:3000```
