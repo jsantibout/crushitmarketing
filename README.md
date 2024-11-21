@@ -1,7 +1,8 @@
 # Setup Instructions
 
 1. Download the zip of this project or utilize git commands to clone this project
-
+  - To download the zip click on the green code button the click download zip
+    
 2. If project does not contain dependencies when pulled down follow steps
 3 - 5 otherwise skip to step 6
 
