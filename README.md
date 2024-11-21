@@ -1,29 +1,37 @@
-Install Node.js according to the instructions on the official website
+# Setup Instructions
+
+1. Install git as instructed on official website: \
+https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+
+2. If project does not contain dependencies when pulled down follow steps
+3 - 5 otherwise skip to step 6
+
+3. Install Node.js according to the instructions on the official website: \
 https://nodejs.org/en/download/package-manager
 
-Install ngrok according to instructions on the official website
+4. Install ngrok according to instructions on the official website \
 https://download.ngrok.com/mac-os
 
-Install express and axios with the following command:
+5. Install express and axios with the following command: \
 ```npm install express axios```
 
-In the server folder run the following command to start the server
+6. In the server folder run the following command to start the server \
 ```node server.js```
 
-The following message should show if server is run successfully
+7. The following message should show if server is run successfully \
 ```Server is running on http://localhost:3000```
 
-In another terminal/powershell instance run the following command:
+8. In another terminal/powershell instance run the following command: \
 ```ngrok http 3000```
 
 This allows forwarding of data from the internet to the local server
 
-after ngrok runs copy the url found after the Forwarding line and add /webhook to the end
+9. After ngrok runs copy the url found after the Forwarding line and add /webhook to the end \
 ex: https://1234-5679-1235.ngrok-free.app/webhook
 
 add this url to the webhook action in GoHighLevel
 
-After a trigger occurs data will be sent to batchdata. Results from batch 
+10. After a trigger occurs data will be sent to batchdata. Results from batch 
 data will appear in batchDataResults.txt in the GoHighLevel project folder
 
 Currently attempting to route data back from BatchData back to GoHighLevel
