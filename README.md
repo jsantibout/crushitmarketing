@@ -24,12 +24,12 @@ https://download.ngrok.com/mac-os
 8. In another terminal/powershell instance run the following command: \
 ```ngrok http 3000```
 
-This allows forwarding of data from the internet to the local server
+ - This allows forwarding of data from the internet to the local server
 
 9. After ngrok runs copy the url found after the Forwarding line and add /webhook to the end \
 ex: https://1234-5679-1235.ngrok-free.app/webhook
 
-add this url to the webhook action in GoHighLevel in the Skip Tracing workflow
+  - add this url to the webhook action in GoHighLevel in the Skip Tracing workflow
 
 10. After a trigger occurs data will be sent to batchdata. Results from batch 
 data will appear in batchDataResults.txt in the GoHighLevel project folder
