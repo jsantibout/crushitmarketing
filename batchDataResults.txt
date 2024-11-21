@@ -1,0 +1,76 @@
+[
+  {
+    "propertyAddress": {
+      "addressValidity": "Valid",
+      "hash": "550a21adef79f61e207ba30fef770ec4",
+      "street": "2190 Manchester Ave Apt E",
+      "city": "Cardiff By The Sea",
+      "state": "CA",
+      "zip": "92007",
+      "zipPlus4": "1833",
+      "houseNumber": "2190",
+      "county": "San Diego",
+      "unitType": "Apt",
+      "unitNumber": "E",
+      "streetNoUnit": "2190 Manchester Ave",
+      "formattedStreet": "Manchester Ave",
+      "deliveryPointCode": "773"
+    },
+    "name": {
+      "first": "Jessica",
+      "last": "Rugg"
+    },
+    "phoneNumbers": [
+      {
+        "number": "9285661667",
+        "type": "Land Line",
+        "carrier": "MERCURY VOICE AND DATA LLC DBA SUDDENLINK COMM-AZ",
+        "tested": false,
+        "reachable": true,
+        "dnc": false,
+        "firstReportedDate": "2023-06-26T00:00:00.000Z",
+        "lastReportedDate": "2024-10-01T00:00:00.000Z",
+        "score": 100
+      },
+      {
+        "number": "9493880862",
+        "type": "Land Line",
+        "carrier": "COMCAST IP PHONE- LLC",
+        "tested": true,
+        "reachable": true,
+        "dnc": true,
+        "firstReportedDate": "2023-06-26T00:00:00.000Z",
+        "lastReportedDate": "2024-03-15T00:00:00.000Z",
+        "score": 95
+      }
+    ],
+    "emails": [],
+    "mailingAddress": {
+      "addressValidity": "Partially Valid",
+      "hash": "1d009f7a8d1c22c3637304882dc50a4a",
+      "street": "2190 Manchester Ave",
+      "city": "Cardiff By The Sea",
+      "state": "CA",
+      "zip": "92007",
+      "zipPlus4": "1833",
+      "houseNumber": "2190",
+      "county": "San Diego",
+      "streetNoUnit": "2190 Manchester Ave",
+      "formattedStreet": "Manchester Ave",
+      "deliveryPointCode": "999"
+    },
+    "bankruptcy": {},
+    "involuntaryLien": {},
+    "death": {},
+    "dnc": {
+      "tcpa": false
+    },
+    "litigator": false,
+    "property": {},
+    "_id": "550a21adef79f61e207ba30fef770ec4",
+    "meta": {
+      "matched": true,
+      "error": false
+    }
+  }
+]

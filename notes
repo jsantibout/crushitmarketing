@@ -1,0 +1,31 @@
+{
+  "request":[
+  {
+    "propertyAddress":{
+      "city": "{{contact.city}}",
+      "street": "{{contact.address1}}",
+      "state": "{{contact.state}}",
+      "zip": "{{contact.postal_code}}"
+    }
+  }]
+}
+
+Sandbox API Token:
+Oz2tDPpEykEd78wj2B7T4W8YTLYGGOm7afc11i9v
+j9FTCY8itXcdqXOZYKSlDRzUBWcPMcKOUh0UmPbo
+
+skiptrace API Token:
+riBrsGChDUXYuLdx5DibNB8k5J0WhVtD0MFQ0pOa
+
+GoHighLevel Private Integrations API token
+pit-699255dd-58c0-4375-9841-4a8129c11634
+
+Crushitmarketing_2
+67353398a8de6f410bd1beab-m3i9b2wv
+5539e484-fb7a-4628-a47b-ac530486e652
+
+
+Possible implementation:
+Have the server receive the contact data from GHL
+then have server send to batchdata and listen to the response
+if possible
