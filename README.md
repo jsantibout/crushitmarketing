@@ -1,7 +1,6 @@
 # Setup Instructions
 
-1. Install git as instructed on official website: \
-https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+1. Download the zip of this project or utilize git commands to clone this project
 
 2. If project does not contain dependencies when pulled down follow steps
 3 - 5 otherwise skip to step 6
