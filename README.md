@@ -36,5 +36,5 @@ data will appear in batchDataResults.txt in the GoHighLevel project folder
 
 
 
-Currently attempting to route data back from BatchData back to GoHighLevel
+Currently attempting to route data from BatchData back to GoHighLevel
 does not execute successfully
