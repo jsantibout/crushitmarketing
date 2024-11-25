@@ -34,6 +34,9 @@ ex: https://1234-5679-1235.ngrok-free.app/webhook
 10. After a trigger occurs data will be sent to batchdata. Results from batch 
 data will appear in batchDataResults.txt in the GoHighLevel project folder
 
+11. Utilize the test workflow function in GoHighLevel to verify that the server works and
+The data is being populated correctly in the batchDataResults.txt file
+
 
 
 Currently attempting to route data from BatchData back to GoHighLevel
